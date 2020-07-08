@@ -1,0 +1,17 @@
+
+.header-div{
+    text-align: center;
+    font-style: italic;
+  
+    
+}
+.header-div h1{
+    font-size: 60pt;
+    font-family: 'Amarante' ;
+    font-weight: 200;
+    letter-spacing: 5px;
+    
+}
+.header-div p{
+    font-size: 20pt;
+}
