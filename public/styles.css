@@ -3,45 +3,70 @@ body{
 }
 .header-div{
     text-align: center;
-    font-style: italic;
-  color: #21bf73;
+  
+  color: black;
   padding: 50px 0 50px 0;
   
 }
 .header-div h1{
-    font-size: 60pt;
+    font-size: 50pt;
     font-family: 'Amarante' ;
     font-weight: 200;
     letter-spacing: 5px;
+    font-weight: 5000;
+    padding-top: 30px;
    
     
   
 }
 .header-div p{
     font-size: 20pt;
+    color: #494949;
+    padding-top: 30px;
 }
 .header-div img{
     border-radius: 50%;
 }
 .middle-div{
-    text-align: center;
+    
     padding-top: 50px;
 }
 .middle-div h1{
-    font-size: 30pt;
-    color: #21bf73;
+    font-size: 20pt;
+    color: #0e0d0d;
+    padding-left: 50px;
+
 }
 
 .middle-div p{
     font-size: 15pt;
-    padding: 0 400px 0;
+    padding-left: 50px;
+    color: #494949;
+    
 }
 .middle-div-1{
-    padding-top: 100px;
-    color: #21bf73;
+padding-top: 40px;
+
 }
-.middle-div-1 h1{
-    font-size: 35pt;
-    color: #024b30;
-    padding-bottom: 30px;
+.middle-div-1 li{
+    padding-left: 50px;
+    color: #494949;
+}
+.middle-div-1 h3{
+    padding-left: 50px;
+    padding-top: 30px;
+    color: #c00000;
+    font-size: 15pt;
+}
+.footer-div{
+    text-align: center;
+    padding-top: 150px;
+}
+.footer-div-button{
+    padding-top: 30px;
+}
+.footer-div-copyright{
+    background-color: #929aab;
+    margin-top: 100px;
+    
 }
